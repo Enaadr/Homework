@@ -1,0 +1,16 @@
+#include <iostream>
+
+using namespace std;
+
+//Внеси преку тастатура два цели броеви а и b. Отпечати ги броевите на екран, најди ја нивнатаразлика и отпечати го резултатот.
+int main()
+{
+    int a,b;
+
+    cin>>a>>b;
+
+    cout<<" The numbers are:"<<a<<" "<<b;
+
+    return 0;
+
+}
